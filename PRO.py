@@ -1,14 +1,4 @@
 # FOLLOW MY GITHUB : git clone https://github.com/EVAN-444/RUN/upload/main
-
-ls
-
-cd
-
-cd RUN
-
-ls
-
-python 1.py
 #------------- IMPORT ------------#
 from os import system as c
 import File 
