@@ -1,4 +1,4 @@
-# FOLLOW MY GITHUB : git clone https://github.com/EVAN-444/RUN/upload/main
+# FOLLOW MY GITHUB : https://github.com/EVAN-444/DONE
 #------------- IMPORT ------------#
 from os import system as c
 import File 
